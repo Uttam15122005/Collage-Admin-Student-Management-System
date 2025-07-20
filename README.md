@@ -108,4 +108,5 @@ This project is a **Student and Parent Information Management System** built usi
 <img width="1876" height="898" alt="Screenshot 2025-07-20 123738" src="https://github.com/user-attachments/assets/d3ac5d25-9e9e-4fc6-86be-b63de676a54e" />
 
 
+Source Code: 
 
