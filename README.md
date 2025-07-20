@@ -33,3 +33,25 @@ This is a **Student Management System** built using **WordPress**, designed to m
 <img width="1895" height="821" alt="Screenshot 2025-07-20 122600" src="https://github.com/user-attachments/assets/a58e41b0-7ac6-4b5f-92fa-dc0d80ac9419" />
 
 
+
+## 📸 Screenshots
+
+*(Add some screenshots of your dashboard or data entry pages if available)*
+
+## 👤 Author
+
+- **Your Name**
+- Email: your@email.com
+- GitHub: [yourusername](https://github.com/yourusername)
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
+
+<img width="1895" height="894" alt="Screenshot 2025-07-20 123802" src="https://github.com/user-attachments/assets/f3aae5f9-0deb-41c4-a49a-d047a1321149" />
+<img width="1893" height="893" alt="Screenshot 2025-07-20 123715" src="https://github.com/user-attachments/assets/de775f91-24ca-4526-8b5d-429f4f546fb6" />
+
+
+
+
