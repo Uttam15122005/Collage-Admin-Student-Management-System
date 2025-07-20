@@ -53,5 +53,59 @@ This project is licensed under the MIT License.
 <img width="1893" height="893" alt="Screenshot 2025-07-20 123715" src="https://github.com/user-attachments/assets/de775f91-24ca-4526-8b5d-429f4f546fb6" />
 
 
+# Student & Parent Management System (WordPress-Based)
+
+## 📘 Project Overview
+
+This project is a **Student and Parent Information Management System** built using **WordPress**. It allows admin users to add, view, and manage student records along with their parent/guardian details.
+
+## 🛠️ Features
+
+### 👨‍🎓 Student Information
+- Add, edit, delete student records
+- Store the following details:
+  - Full Name
+  - Roll Number / Student ID
+  - Gender
+  - Date of Birth
+  - Class / Course / Year
+  - Address
+  - Phone Number
+  - Email
+  - Photo
+  - Subjects
+
+### 👨‍👩‍👧 Parent/Guardian Information
+- Linked to each student
+- Store the following:
+  - Parent Name (Father / Mother / Guardian)
+  - Relationship
+  - Phone Number
+  - Email
+  - Address
+  - Occupation
+
+### 🔍 Additional Functions
+- Search/filter students by name, class, or ID
+- View complete student + parent profile
+- Export student data (CSV/PDF)
+
+## 🧰 Built With
+- **WordPress**
+- **PHP**
+- **MySQL**
+- **HTML/CSS**
+- Optional: Advanced Custom Fields (ACF) or Custom Post Types
+
+## 🚀 Setup Instructions
+1. Install WordPress
+2. Add project to `/wp-content/plugins/` or `/wp-content/themes/`
+3. Activate plugin/theme from the WordPress dashboard
+4. Use the dashboard menu to add and manage students and parents
+
+## 👤 Author
+
+<img width="1876" height="898" alt="Screenshot 2025-07-20 123738" src="https://github.com/user-attachments/assets/d3ac5d25-9e9e-4fc6-86be-b63de676a54e" />
+
 
 
