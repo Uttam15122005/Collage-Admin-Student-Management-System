@@ -30,4 +30,6 @@ This is a **Student Management System** built using **WordPress**, designed to m
 
 ## 📂 Project Structure
 <img width="1919" height="848" alt="Screenshot 2025-07-20 122533" src="https://github.com/user-attachments/assets/9691b9c1-3d1a-48c3-9bc2-6074da8954db" />
+<img width="1895" height="821" alt="Screenshot 2025-07-20 122600" src="https://github.com/user-attachments/assets/a58e41b0-7ac6-4b5f-92fa-dc0d80ac9419" />
+
 
