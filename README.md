@@ -41,8 +41,8 @@ This is a **Student Management System** built using **WordPress**, designed to m
 ## 👤 Author
 
 - **Your Name**
-- Email: your@email.com
-- GitHub: [yourusername](https://github.com/yourusername)
+- Email: uttamstm15122005@gmail.com
+- GitHub: [yourusername](https://github.com/Uttam15122005/Collage-Admin-Student-Management-System)
 
 ## 📄 License
 
